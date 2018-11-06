@@ -1,0 +1,17 @@
+button{
+    position: relative;
+    left: 50%;
+    cursor: pointer;
+    transform: translate(-50%);
+    border: 2px solid #000;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px!important;
+}
+
+h2{
+    font-size: 17px!important;
+}
